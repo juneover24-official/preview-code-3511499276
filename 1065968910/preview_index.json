@@ -1,0 +1,43 @@
+{
+  "qq_number": "3511499276",
+  "group_number": "1065968910",
+  "updated_at": "2026-04-23T15:52:37.862358",
+  "skins": [
+    {
+      "name": "香菇肉片底包",
+      "file": "少女手账本.bdi",
+      "thumb": "少女手账本.bdi_py_26_light_thumb.png",
+      "full": "少女手账本.bdi_py_26_light.png"
+    },
+    {
+      "name": "香菇肉片底包",
+      "file": "熊熊这个萌.bdi",
+      "thumb": "熊熊这个萌.bdi_py_26_light_thumb.png",
+      "full": "熊熊这个萌.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "404号病房.bdi",
+      "thumb": "404号病房.bdi_py_26_light_thumb.png",
+      "full": "404号病房.bdi_py_26_light.png"
+    },
+    {
+      "name": "404号病房",
+      "file": "404号病房.bds",
+      "thumb": "404号病房.bds_py_26_light_thumb.png",
+      "full": "404号病房.bds_py_26_light.png"
+    },
+    {
+      "name": "香菇肉片底包",
+      "file": "熊熊这个萌.bds",
+      "thumb": "熊熊这个萌.bds_py_26_light_thumb.png",
+      "full": "熊熊这个萌.bds_py_26_light.png"
+    },
+    {
+      "name": "少女手账本",
+      "file": "少女手账本.bds",
+      "thumb": "少女手账本.bds_py_26_light_thumb.png",
+      "full": "少女手账本.bds_py_26_light.png"
+    }
+  ]
+}

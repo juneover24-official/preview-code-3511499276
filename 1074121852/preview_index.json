@@ -1,0 +1,79 @@
+{
+  "qq_number": "3511499276",
+  "group_number": "1074121852",
+  "updated_at": "2026-04-23T15:52:37.843067",
+  "skins": [
+    {
+      "name": "乐妍底包",
+      "file": "泉の天使喵冥.bdi",
+      "thumb": "泉の天使喵冥.bdi_py_26_light_thumb.png",
+      "full": "泉の天使喵冥.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "雾墓2.bdi",
+      "thumb": "雾墓2.bdi_py_26_light_thumb.png",
+      "full": "雾墓2.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "雾墓.bdi",
+      "thumb": "雾墓.bdi_py_26_light_thumb.png",
+      "full": "雾墓.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "罪与爱脆.bdi",
+      "thumb": "罪与爱脆.bdi_py_26_light_thumb.png",
+      "full": "罪与爱脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "404NotFound.bdi",
+      "thumb": "404NotFound.bdi_py_26_light_thumb.png",
+      "full": "404NotFound.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "罪与爱闷.bdi",
+      "thumb": "罪与爱闷.bdi_py_26_light_thumb.png",
+      "full": "罪与爱闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "雾墓2",
+      "file": "雾墓2.bds",
+      "thumb": "雾墓2.bds_py_26_light_thumb.png",
+      "full": "雾墓2.bds_py_26_light.png"
+    },
+    {
+      "name": "罪与爱（闷）",
+      "file": "罪与爱闷.bds",
+      "thumb": "罪与爱闷.bds_py_26_light_thumb.png",
+      "full": "罪与爱闷.bds_py_26_light.png"
+    },
+    {
+      "name": "天使喵、冥",
+      "file": "泉の天使喵丶冥.bds",
+      "thumb": "泉の天使喵丶冥.bds_py_26_light_thumb.png",
+      "full": "泉の天使喵丶冥.bds_py_26_light.png"
+    },
+    {
+      "name": "404 Not Found",
+      "file": "404NotFound.bds",
+      "thumb": "404NotFound.bds_py_26_light_thumb.png",
+      "full": "404NotFound.bds_py_26_light.png"
+    },
+    {
+      "name": "雾墓",
+      "file": "雾墓.bds",
+      "thumb": "雾墓.bds_py_26_light_thumb.png",
+      "full": "雾墓.bds_py_26_light.png"
+    },
+    {
+      "name": "罪与爱（脆）",
+      "file": "罪与爱脆.bds",
+      "thumb": "罪与爱脆.bds_py_26_light_thumb.png",
+      "full": "罪与爱脆.bds_py_26_light.png"
+    }
+  ]
+}
