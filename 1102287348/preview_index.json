@@ -1,7 +1,7 @@
 {
   "qq_number": "3511499276",
   "group_number": "1102287348",
-  "updated_at": "2026-09-28T11:56:20+00:00",
+  "updated_at": "2026-09-28T12:17:42+00:00",
   "skins": [
     {
       "name": "溟の底包包",
@@ -30,6 +30,13 @@
       "thumb": "电子梦融合.bdi_py_26_light_thumb.png",
       "full": "电子梦融合.bdi_py_26_light_thumb.png",
       "file_id": "196194d4b5dac528479300e619228ce7"
+    },
+    {
+      "name": "电子梦融合",
+      "file": "电子梦融合.bds",
+      "thumb": "电子梦融合.bds_py_26_light_thumb.png",
+      "full": "电子梦融合.bds_py_26_light_thumb.png",
+      "file_id": "cd463bb33dafc01327474cfda51c288d"
     }
   ]
 }
