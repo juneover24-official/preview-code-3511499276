@@ -1,7 +1,7 @@
 {
   "qq_number": "3511499276",
   "group_number": "1102287348",
-  "updated_at": "2026-09-28T11:53:56+00:00",
+  "updated_at": "2026-09-28T11:56:20+00:00",
   "skins": [
     {
       "name": "溟の底包包",
@@ -23,6 +23,13 @@
       "thumb": "对你撒娇有用吗3.bds_py_26_light_thumb.png",
       "full": "对你撒娇有用吗3.bds_py_26_light_thumb.png",
       "file_id": "e0b551632373774763a7aa3b5281c25a"
+    },
+    {
+      "name": "电子梦融合",
+      "file": "电子梦融合.bdi",
+      "thumb": "电子梦融合.bdi_py_26_light_thumb.png",
+      "full": "电子梦融合.bdi_py_26_light_thumb.png",
+      "file_id": "196194d4b5dac528479300e619228ce7"
     }
   ]
 }
