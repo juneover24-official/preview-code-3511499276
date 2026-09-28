@@ -1,7 +1,7 @@
 {
   "qq_number": "3511499276",
   "group_number": "1102287348",
-  "updated_at": "2026-09-28T11:51:04+00:00",
+  "updated_at": "2026-09-28T11:53:56+00:00",
   "skins": [
     {
       "name": "溟の底包包",
@@ -16,6 +16,13 @@
       "thumb": "对你撒娇有用吗3.bdi_py_26_light_thumb.png",
       "full": "对你撒娇有用吗3.bdi_py_26_light_thumb.png",
       "file_id": "cec54c29c89aa2a9a53c398191c98c74"
+    },
+    {
+      "name": "溟の底包包",
+      "file": "对你撒娇有用吗3.bds",
+      "thumb": "对你撒娇有用吗3.bds_py_26_light_thumb.png",
+      "full": "对你撒娇有用吗3.bds_py_26_light_thumb.png",
+      "file_id": "e0b551632373774763a7aa3b5281c25a"
     }
   ]
 }
