@@ -1,7 +1,7 @@
 {
   "qq_number": "3511499276",
   "group_number": "1102287348",
-  "updated_at": "2026-11-17T14:43:53+00:00",
+  "updated_at": "2026-11-17T14:50:42+00:00",
   "skins": [
     {
       "name": "溟の底包包",
@@ -184,6 +184,13 @@
       "thumb": "泪痛同温1.bdi_py_26_light_thumb.png",
       "full": "泪痛同温1.bdi_py_26_light_thumb.png",
       "file_id": "df94bfeb38ce54af9a724ebb2d7fc42b"
+    },
+    {
+      "name": "喵的世界",
+      "file": "喵的世界狂叫哈吉米版.bdi",
+      "thumb": "喵的世界狂叫哈吉米版.bdi_py_26_light_thumb.png",
+      "full": "喵的世界狂叫哈吉米版.bdi_py_26_light_thumb.png",
+      "file_id": "10b6160dc00b70b13c0eb926404c4f94"
     }
   ]
 }
