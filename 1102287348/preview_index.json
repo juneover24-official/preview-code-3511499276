@@ -1,7 +1,7 @@
 {
   "qq_number": "3511499276",
   "group_number": "1102287348",
-  "updated_at": "2026-11-17T14:42:42+00:00",
+  "updated_at": "2026-11-17T14:43:53+00:00",
   "skins": [
     {
       "name": "溟の底包包",
@@ -177,6 +177,13 @@
       "thumb": "泪痛同温2.bdi_py_26_light_thumb.png",
       "full": "泪痛同温2.bdi_py_26_light_thumb.png",
       "file_id": "9d56a515c3b135a8f5d231186a93398d"
+    },
+    {
+      "name": "泪痛同温",
+      "file": "泪痛同温1.bdi",
+      "thumb": "泪痛同温1.bdi_py_26_light_thumb.png",
+      "full": "泪痛同温1.bdi_py_26_light_thumb.png",
+      "file_id": "df94bfeb38ce54af9a724ebb2d7fc42b"
     }
   ]
 }
