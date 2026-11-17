@@ -1,7 +1,7 @@
 {
   "qq_number": "3511499276",
   "group_number": "1102287348",
-  "updated_at": "2026-11-17T14:58:49+00:00",
+  "updated_at": "2026-11-17T15:06:15+00:00",
   "skins": [
     {
       "name": "溟の底包包",
@@ -240,6 +240,13 @@
       "thumb": "痕.bdi_py_26_light_thumb.png",
       "full": "痕.bdi_py_26_light_thumb.png",
       "file_id": "3461daa26dd145245684ecd7ad70e8d1"
+    },
+    {
+      "name": "升天time2",
+      "file": "升天time2_融合.bdi",
+      "thumb": "升天time2_融合.bdi_py_26_light_thumb.png",
+      "full": "升天time2_融合.bdi_py_26_light_thumb.png",
+      "file_id": "e27bd0aa279b83d393994ae78fa8c10b"
     }
   ]
 }
